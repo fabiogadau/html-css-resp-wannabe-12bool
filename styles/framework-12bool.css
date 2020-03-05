@@ -14,10 +14,7 @@
 /*Columns Common Style*/
 [class^="col-"] {
   float: left;
-  padding: 16px;
   /* DEBUG:  */
-  background: pink;
-  border: 1px solid black;
   text-align: center;
 }
 
